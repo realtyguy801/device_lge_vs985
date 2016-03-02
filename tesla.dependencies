@@ -10,5 +10,11 @@
     "repository":  "TheMuppets/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "branch":      "cm-13.0"
+  },
+  { 
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
+    "branch":      "cm-13.0"
   }
 ]
