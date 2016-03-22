@@ -31,6 +31,13 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/vs985/bluetooth
 TARGET_KERNEL_CONFIG := cyanogenmod_vs985_defconfig
 TARGET_REQUIRES_BUMP := true
 
+# Optimizations
+CLANG_O3 := false
+STRICT_ALIASING := false
+KRAIT_TUNINGS := false
+GRAPHITE_OPTS := false
+ENABLE_GCCONLY := false
+
 # NFC
 BOARD_NFC_CHIPSET := pn547
 
