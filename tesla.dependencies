@@ -7,7 +7,7 @@
   {
     "repository": "CyanogenMod/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch": "cm-14,0"
+    "branch": "cm-14.0"
   },
   {
     "repository": "CyanogenMod/android_device_qcom_common",
