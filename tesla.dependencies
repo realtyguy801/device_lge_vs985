@@ -1,6 +1,6 @@
 [
   {
-    "repository": "Tesla-M-Device/android_device_lge_g3-common",
+    "repository": "Tesla-M-Devices/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch": "n7.0"
   },
