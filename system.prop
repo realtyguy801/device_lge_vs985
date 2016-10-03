@@ -1,3 +1,6 @@
+# Bluetooth
+qcom.bluetooth.soc=smd
+
 # Radio
 rild.libargs=-d /dev/smd0
 rild.libpath=/vendor/lib/libril-qc-qmi-1.so
