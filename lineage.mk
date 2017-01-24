@@ -3,7 +3,7 @@ $(call inherit-product, device/lge/vs985/full_vs985.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-PRODUCT_NAME := cm_vs985
+PRODUCT_NAME := lineage_vs985
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
