@@ -5,9 +5,14 @@
     "branch": "n7.1"
   },
   {
-    "repository": "pimpmaneaton/kernel_lge_g3",
+    "repository": "AICP/kernel_lge_g3",
     "target_path": "kernel/lge/g3",
     "branch": "n7.1"
+  },
+   {
+    "repository": "LineageOS/android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap",
+    "branch":      "cm-14.1"
   },
  {
     "repository": "TheMuppets/proprietary_vendor_lge",
